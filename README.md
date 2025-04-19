@@ -55,11 +55,11 @@ Este estudio puede ayudar a enfocar estrategias de marketing, mejorar la logíst
 
 4. **Ejecuta las celdas paso a paso para ver el análisis y los gráficos generados.**
 
-#📌 Notas
+## 📌 Notas
 Los datos fueron obtenidos desde un repositorio público de Alura Latam.
 
 Todos los gráficos están generados automáticamente en el notebook y guardados como imágenes en la carpeta imagenes/.
 
-#📬 Contacto
+## 📬 Contacto
 Si tienes dudas o sugerencias, no dudes en abrir un issue o enviarme un mensaje.
 
