@@ -34,8 +34,8 @@ Este estudio puede ayudar a enfocar estrategias de marketing, mejorar la logíst
 ### 📦 Productos más vendidos por tienda
 ![Ventas Tienda 1](imagenes/grafico_top_productos_tienda1.png)
 
-- **La Tienda 3** muestra las mayores ventas generales.
-- **La categoría "Accesorios"** es la más popular en todas las tiendas.
+- **La Tienda 1** muestra las mayores ventas generales.
+- **La categoría "Muebles"** es la más popular en todas las tiendas.
 - Las tiendas con mejor calificación promedio son candidatas ideales para reforzar campañas de fidelización.
 
 ---
